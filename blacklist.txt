@@ -590,7 +590,6 @@ exec-php ;; php hacks
 /expander/ ;; not maintained, deprecated (by Ciprian Popescu)
 extended-categories-widget ;; not maintained, creates instability
 ezpz-one-click-backup ;; deprecated, ss conflicts, resource intensive
-facebook-for-woocommerce ;; serious errors, history of poor coding (By Facebook via WooCommerce.com)
 facebook-google-twitter-share ;; not maintained
 facebook-like-box ;; deprecated (by Marcos Esperon)
 facebook-like-button ;; deprecated
